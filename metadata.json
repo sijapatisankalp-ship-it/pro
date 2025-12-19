@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Viral Creative Lab",
+  "description": "AI-powered e-commerce creative generation tool for lifestyle photos, viral scripts, and video b-roll concepts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
